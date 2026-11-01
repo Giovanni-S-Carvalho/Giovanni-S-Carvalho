@@ -1,4 +1,3 @@
-<!-- HEADER COM NOME E BADGES -->
 <div align="center">
   <h1>Giovanni S. Carvalho</h1>
   <h3>Engenharia de Software | Python | Automação</h3>
@@ -33,3 +32,14 @@
 ### 📌 Projeto em Destaque
 
 | Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| **[JARVAS](https://github.com/Giovanni-S-Carvalho/JARVAS)** | Assistente pessoal desenvolvido para automação de tarefas, gestão de dados estruturados e acompanhamento de metas. | `Python` `SQLite` `JSON` |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Giovanni-S-Carvalho&show_icons=true&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanni-S-Carvalho&layout=compact&theme=dark" height="150" />
+</div>
