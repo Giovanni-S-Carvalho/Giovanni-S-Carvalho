@@ -33,7 +33,7 @@
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[JARVAS](https://github.com/Giovanni-S-Carvalho/JARVAS)** | Assistente pessoal desenvolvido para automação de tarefas, gestão de dados estruturados e acompanhamento de metas. | `Python` `SQLite` `JSON` |
+| **[JARVAS](https://github.com/Giovanni-S-Carvalho/jarvas-assistente-pessoal)** | Assistente pessoal desenvolvido para automação de tarefas, gestão de dados estruturados e acompanhamento de metas. | `Python` `SQLite` `JSON` |
 
 ---
 
