@@ -1,6 +1,6 @@
 <!-- HEADER COM NOME E BADGES -->
 <div align="center">
-  <h1> Seu Nome Aqui </h1>
+  <h1> Giovanni Carvalho </h1>
   <h3> Desenvolvedor Backend | Python | APIs </h3>
 
   <p>
@@ -12,7 +12,7 @@
 ---
 
 ### 💻 Sobre Mim
-- 🔭 Atualmente trabalhando em **[Seu Projeto Principal]**
+- 🔭 Atualmente trabalhando em JARVAS.
 - 🌱 Estudando **Python, FastAPI e Estrutura de Dados**
 - ⚡ Interesses em automação, backend e banco de dados
 
